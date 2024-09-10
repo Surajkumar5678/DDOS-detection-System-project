@@ -8,10 +8,19 @@ Detection of common DDoS attack patterns
 Visual representation of traffic patterns and alerts
 Configurable detection parameters
 Scalable to handle large amounts of traffic
+
 Installation
 Prerequisites
 Ensure that you have the following installed:
-
 Python 3.x
 Pip (Python package manager)
 Libraries: numpy, scikit-learn, matplotlib, etc.
+
+Technologies Used
+Programming Language: Python
+Libraries:
+numpy
+pandas
+scikit-learn
+matplotlib
+tcpdump (or similar network monitoring tool)
